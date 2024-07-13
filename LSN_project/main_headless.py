@@ -58,7 +58,7 @@ class QueueSimulator:
         ET = p1 * ET1 + p2 * ET2
         return ET
 
-    def simulate_sita(self, lambda_rate: float, mu1: float, mu2: float, cutoff: float, num_jobs: int) -> float:
+    def simulate_sita(self, lambda_rate: float, mu1: float, mu2: float, cutoff: float, number_of_jobs: int) -> float:
         service_times: np.ndarray = self.generate_job_sizes(num_jobs)
 
         server1_jobs: np.ndarray = service_times[service_times <= cutoff]
