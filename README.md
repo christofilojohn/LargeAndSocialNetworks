@@ -1,4 +1,6 @@
-# Large and Social Networks project by: Ioannnis Christofilogiannis, Konstantinos Karalis
+# Large and Social Networks project by:
+# Ioannnis Christofilogiannis
+# Konstantinos Karalis
 
 # Queue Simulator
 
