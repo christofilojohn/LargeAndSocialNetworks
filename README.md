@@ -1,3 +1,5 @@
+# Large and Social Networks project by: Ioannnis Christofilogiannis, Konstantinos Karalis
+
 # Queue Simulator
 
 This project implements a queue simulator to compare the performance of M/G/1/FCFS and SITA (Size Interval Task Assignment) queueing systems.
